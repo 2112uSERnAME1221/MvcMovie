@@ -2,8 +2,10 @@
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using MvcMovie.Data;
+using MvcMovie.Features.Movies.Models;
+using MvcMovie.Features.Movies.Services;
 using MvcMovie.Models;
-using MvcMovie.Services;
+//using MvcMovie.Services;
 using NuGet.ContentModel;
 using Xunit;
 
